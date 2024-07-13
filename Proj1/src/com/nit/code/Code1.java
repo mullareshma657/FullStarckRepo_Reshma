@@ -1,7 +1,7 @@
 package com.nit.code;
 
-public class Code {
- public void sum(int a,int b) {
+public class Code1{
+ public void mul(int a,int b) {
 	 System.out.println(a+b);
  }
 }
